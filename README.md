@@ -18,7 +18,8 @@ cd textclassifier
 ```
 3. Install the required dependencies:
 ```
-pip install -r requirements.txt
+pip install textblob
+pip install streamlit
 ```
 
 Usage
